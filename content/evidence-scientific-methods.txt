@@ -1,0 +1,156 @@
+# Scientific Evidence: Methods & Acquisition Strategy
+# Document your systematic approach to finding research evidence
+
+## Research Question
+problem: Communication problems between upper and lower level management, with a primary focus on the healthcare industry
+
+2. Psychological Safety and Speaking Up
+Primary: How does inadequate communication from upper management affect frontline staff's psychological safety and willingness to report concerns?
+Secondary: Which leadership practices or organizational cultures have been shown to increase psychological safety and promote open reporting in healthcare settings?
+
+3. Information Silos Between Management Levels or Departments
+Primary: What does research say about the impact of siloed communication between hospital departments or leadership levels on care coordination and patient outcomes?
+Secondary: What organizational or technological interventions have been effective in breaking down silos and improving cross-level communication?
+
+4. Top-Down Decision Making and Staff Engagement
+Primary: How does poor downward communication or exclusive top-down decision-making influence staff engagement, morale, and retention in healthcare?
+Secondary: What participatory communication models or shared governance approaches have improved staff engagement and retention?
+
+6. Leadership Communication and Burnout/Moral Injury
+Primary: What connections does research draw between leadership communication quality and burnout or moral injury among healthcare professionals?
+Secondary: What communication practices or leadership behaviors have been shown to reduce burnout and support staff well-being?
+
+
+**Primary Research Question:** [What does research tell us about this problem?]
+**Secondary Research Question:** [What does research tell us about potential solutions?]
+
+
+## Search Strategy
+
+### Databases Searched
+- [ ] **PubMed/MEDLINE** [For health/organizational behavior research]
+- [ ] **Business Source Premier** [For business and management research] 
+- [ ] **Google Scholar** [For multidisciplinary academic content]
+- [ ] **JSTOR** [For established academic journals]
+- [ ] **SSRN** [For business and social science working papers]
+- [ ] **Other:** [List additional relevant databases]
+
+### Keywords and Search Terms
+
+#### Primary Keywords
+top-down decision making, downward communication, vertical communication, managerial communication, staff/employee engagement
+morale, staff retention, turnover intention and job satisfaction
+
+#### Secondary Keywords  
+shared governance, participatory decision making, transformational leadership, inclusive leadership, leadership communication
+employee involvement, organizational communication, workplace empowerment, psychological safety, multidisciplinary team huddles
+leadership styles, workplace culture, professional autonomy, employee involvement in decisions
+
+#### Boolean Search Combinations
+[Document your search string combinations]
+- Example: ("employee retention" OR "staff turnover") AND ("small business" OR SME)
+Problem focused: (“top-down decision making” OR “downward communication” OR “vertical communication”) AND (“staff engagement” OR “employee engagement” OR “morale”)
+(“management communication” OR “organizational communication”) AND (“nurse retention” OR “turnover intention” OR “job satisfaction”)
+
+Solution Focused: (“shared governance” OR “participatory decision making” OR “employee involvement”) AND (“healthcare” OR “hospital” OR “nursing”)
+(“transformational leadership” OR “inclusive leadership”) AND (“staff engagement” OR “retention” OR “job satisfaction”)
+
+(“top-down decision making” OR “exclusive decision making”) AND (“shared governance” OR “participatory communication”) AND (“healthcare” OR “nursing”)
+(“downward communication” OR “vertical communication”) AND (“employee involvement” OR “workplace empowerment”) AND (“morale” OR “engagement”)
+
+
+### Search Filters Applied
+- **Date Range:** [Years included in search]
+- **Language:** [Languages included]
+- **Study Types:** [Research designs included/excluded]
+- **Geographic Scope:** [Regions/countries of interest]
+- **Industry Focus:** [Relevant sectors]
+
+## Selection Criteria
+
+### Inclusion Criteria
+[What studies WILL you include?]
+- Study design requirements
+- Population/context requirements
+- Outcome measures
+- Quality thresholds
+
+### Exclusion Criteria  
+[What studies will you EXCLUDE?]
+- Study limitations
+- Context mismatches
+- Quality concerns
+- Accessibility issues
+
+## Search Results Summary
+
+### Initial Search Results
+- **Total Articles Found:** [Number across all databases]
+- **After Removing Duplicates:** [Number of unique articles]
+- **After Title/Abstract Screening:** [Number meeting basic criteria]
+- **Selected for Full Review:** [Final number for detailed analysis]
+
+### Search Documentation
+[Keep a record of what you searched and when]
+
+**Date:** [Search date]
+**Database:** [Which database]
+**Search Terms:** [Exact search string used]
+**Results:** [Number of results]
+**Notes:** [Any observations about the search]
+
+## Quality Assessment Approach
+[How will you evaluate study quality?]
+
+### Research Design Hierarchy
+1. **Systematic Reviews/Meta-analyses** [Highest quality]
+2. **Randomized Controlled Trials** [High quality]
+3. **Quasi-experimental Studies** [Medium-high quality]
+4. **Cohort Studies** [Medium quality]
+5. **Cross-sectional Studies** [Medium-low quality]
+6. **Case Studies** [Lower quality but valuable for context]
+
+### Quality Criteria Checklist
+- [ ] Clear research question
+- [ ] Appropriate methodology
+- [ ] Adequate sample size
+- [ ] Valid measurement tools
+- [ ] Appropriate statistical analysis
+- [ ] Clear reporting of results
+- [ ] Discussion of limitations
+- [ ] Peer-reviewed publication
+
+## Documentation Process
+[How you'll organize and track your findings]
+
+### Reference Management
+[How you'll keep track of citations]
+
+### Evidence Extraction Form
+[What information you'll record for each study]
+- Citation details
+- Study design and methodology
+- Sample characteristics
+- Key findings
+- Relevance to your problem/solution
+- Quality assessment
+
+## Challenges and Limitations
+[Document any issues with your search process]
+
+### Search Limitations
+[What couldn't you access or find?]
+
+### Resource Constraints
+[Time, database access, or other limitations]
+
+### Topic-Specific Challenges
+[Issues unique to your research area]
+
+---
+INSTRUCTIONS:
+1. Be systematic and comprehensive in your approach
+2. Document everything so others could replicate your search
+3. Focus on research relevant to both your problem AND potential solutions
+4. Use library resources and ask librarians for help with database searches
+5. Keep detailed records of what you find and why you include/exclude studies

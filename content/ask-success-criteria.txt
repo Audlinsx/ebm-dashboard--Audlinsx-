@@ -1,0 +1,149 @@
+# Success Criteria Definition
+# Define specific, measurable criteria to evaluate solution effectiveness
+
+## SMART Success Criteria
+
+### Criterion 1: Increase Constructive Staff Voice & Reporting
+- **Specific:** Increase the average number of constructive safety suggestions or incident reports submitted monthly by staff
+- **Measurable:** Achieve a 30% increase in reports/suggestions per 100 staff within 6 months.
+- **Achievable:**  Evidence shows higher psychological safety correlates with more reporting of near misses and improvement suggestions
+- **Relevant:** Yes this directly address the core problem, Reflects X→Y transition: from silence and disengagement → to active 
+contributions in governance and quality.
+- **Time-bound:** This be achieved/measured with monthly monitoring; and a benchmark at/around 6 months
+
+### Criterion 2: Reduce Voluntary Turnover
+- **Specific:** Reduce annual voluntary turnover 
+- **Measurable:** Decrease from baseline, ex 22% to ≤16% within 12 months
+- **Achievable:** Yes, this is realistic given resources and constraints; Systematic reviews show governance and leadership 
+interventions reduce turnover by 15–30%
+- **Relevant:** Yes, this directly address the core problem; Directly addresses the X→Y link: poor top-down communication → 
+disengagement → turnover. Solution = participatory communication → stronger retention.
+- **Time-bound:** This will be achieved/measured quarterly, with a full-year benchmark at 12 months.
+
+### Criterion 3: Increase inter-department collaboration
+- **Specific:** Staff participation in committee meetings, and cross-department collaboration
+- **Measurable:** The number of cross-department meetings or joint initiatives initiated
+- **Achievable:** This is realistic given resources and constraints, and achievable with existing management structures
+- **Relevant:** This directly address the core problem by reducing silos, supports participatory communication
+- **Time-bound:** Within 6 months
+
+## Measurement Framework
+
+### Quantitative Metrics
+Turnover rate: Annual voluntary turnover % (from HR records).
+Staff voice/reporting: # of incident reports and improvement suggestions submitted per 100 staff per month.
+Overtime hours: % change compared to a baseline.
+Patient satisfaction (HCAHPS communication domain): Target 5% increase within 12 months.
+Employee engagement: with a target survey score or rating
+
+**Example metrics:**
+- Cost reduction: [Target amount or percentage]
+- Time savings: [Target time reduction]
+- Quality improvement: [Target quality score]
+- Customer satisfaction: [Target rating or score]
+- Employee engagement: [Target survey score]
+
+### Qualitative Indicators
+Thematic staff feedback in focus groups: perceptions of being heard, valued, and included in decisions.
+Meeting documentation showing staff suggestions incorporated into actual policy/workflow.
+Narrative examples of positive leadership-staff collaboration.
+Enhanced process efficiency
+
+**Example indicators:**
+- Improved stakeholder feedback
+- Enhanced process efficiency
+- Better collaboration
+- Reduced conflict or complaints
+- Increased innovation or creativity
+
+### Leading vs. Lagging Indicators
+
+#### Leading Indicators (Early signals of progress)
+Increased staff attendance at shared governance meetings, more suggestions submitted within 
+the first 3 months, and early uptick in psychological safety survey scores.
+
+#### Lagging Indicators (Final outcomes)
+Lower turnover at 12 months, higher HCAHPS communication scores, and sustained reduction in 
+overtime and agency staffing costs.
+
+## Baseline Measurements
+
+### Current State Metrics
+[Document current performance levels for comparison]
+
+**Metric 1:** Increase Constructive Staff Voice & Reporting = [Current value]
+**Metric 2:** Reduce Voluntary Turnover = [Current value]
+**Metric 3:** Increase inter-department collaboration = [Current value]
+
+### Data Collection Plan
+HR records (turnover), monthly incident reporting dashboards, staff surveys (baseline, 3/6/12 months), focus groups, leadership meeting logs.
+
+## Success Thresholds
+
+### Minimum Acceptable Improvement
+a 10% reduction in turnover, a 15% increase in suggestions, Engagement
+
+### Target Performance Level
+a 25–30% reduction in turnover to a lower number than the minimum acceptable, and 
+a 30% increase in suggestions.
+
+### Stretch Goal
+A turnover rate that is <12%, as well as doubling staff suggestions.
+
+## Stakeholder-Specific Success Criteria
+### Management Success Measures
+Improved quality metrics (fewer adverse events attributable to staffing/communication).
+
+### Employee Success Measures
+Staff report feeling listened to (qualitative feedback), improved work-life balance, increased intention to stay.
+
+### Customer Success Measures
+Improved HCAHPS communication and overall ratings; fewer complaint incidents.
+
+## Risk Indicators
+No improvement or a drop in engagement scores; turnover unchanged or increases; staff report “engagement fatigue”; meetings have poor attendance.
+
+### Red Flags
+Engagement or psychological safety scores decline, the meetings have poor attendence, 
+and staff reporting drops.
+
+### Mitigation Triggers
+Provide protected time for staff participation, adjust leadership training and reframe 
+communication of solution benefits to staff.
+If no engagement improvement at 3 months → re-assess time commitments, provide protected time for participation, pivot facilitation approach.
+If turnover not improving at 6 months → implement targeted retention bonuses or backfill to reduce workload while governance matures.
+
+## Timeline for Assessment
+
+### Short-term (30-90 days)
+Governance councils have launched, the baseline surveys by most/all employees are complete; 
+and have an early increase in suggestions from staff
+Launch pilot shared governance council on 1–2 units; baseline survey; first leadership training sessions.
+
+### Medium-term (3-6 months)
+Measurable improvement in engagement and reporting metrics.
+Collect engagement survey at 3 months, review suggestion volumes, implement first co-designed changes, present mid-pilot report to steering committee.
+
+### Long-term (6-12 months)
+Reduced turnover and improved patient communication scores
+12-month turnover and patient-experience assessment, ROI calculation, decision on scale-up.
+
+## Reporting Framework
+Progress will be communicated to stakeholders through Dashboards metrics, regular reports and milestone reviews
+
+### Dashboard Metrics
+Turnover rate (12-month rolling), engagement score, suggestions/month, overtime hours, HCAHPS domain scores.
+
+### Regular Reports
+Monthly ops dashboard to middle managers; quarterly executive summary to senior leadership; staff updates via newsletters / unit huddles.
+
+### Milestone Reviews
+3-month, 6-month, 12-month formal evaluations with stakeholders and plan adjustments.
+
+---
+INSTRUCTIONS:
+1. Be specific and measurable - avoid vague terms like "better" or "improved"
+2. Ensure criteria are achievable given your resources and timeline
+3. Include both quantitative and qualitative measures
+4. Consider different stakeholder perspectives on success
+5. Plan how you'll actually collect the measurement data

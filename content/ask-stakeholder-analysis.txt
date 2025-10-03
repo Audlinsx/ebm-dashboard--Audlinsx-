@@ -1,0 +1,118 @@
+# Stakeholder Analysis
+# Identify and analyze all parties affected by your problem and solution
+
+## Internal Stakeholders
+
+### Senior Management
+- **Interest in Problem:**  Senior leaders may see operational inefficiencies (higher overtime, agency staffing costs) when staff morale falls,
+or Senior leaders face lower organizational performance when frontline disengagement increases errors, turnover, and lost productivity 
+(senior leaders lose institutional knowledge and pay recruitment costs).
+
+- **Interest in Solution:** Gain: improved retention, reduced recruitment/agency costs, stronger quality metrics and reputation. 
+And improved implementation success of strategic initiatives through line-level buy-in.
+
+- **Influence Level:** High influence on solution success, control budgets, policy, governance models
+- **Support Level:** Likely supporter if ROI is demonstrated; may be neutral/resistant if perceived as costly or slow to deliver.
+
+### Middle Management
+- **Interest in Problem:** Middle managers shoulder day-to-day frustrations of reconciling top directives with frontline constraints; 
+top-down edicts without consultation make their jobs harder. They may face blame for poor morale or poor performance metrics they cannot control.
+
+- **Interest in Solution:** Gain: clearer, co-created workflows, reduced conflict between staff and executives, stronger unit performance.
+ Risk: added workload to participate in governance structures (time attending meetings).
+
+- **Influence Level:** High/Medium,translate policy into practice; can champion or block change.
+- **Support Level:** Likely supporter, if process reduces their burden; potentially resistant if perceived as more administrative work.
+
+### Employees/Staff
+- **Interest in Problem:** Staff experience lower morale, higher burnout and intention to leave when excluded from decisions affecting 
+their work. Lack of voice reduces job satisfaction and psychological safety, which can decrease reporting of safety concerns
+- **Interest in Solution:** Gain: voice in practice, improved job satisfaction, career empowerment, lower intention to quit. 
+Perceived cost: time away from clinical duties to attend committee meetings
+
+- **Influence Level:** Medium/Low influence on solution success, collective voice matters; unions or councils can exert influence
+- **Support Level:** Strong likely supporters, they benefit from a participatory model
+
+
+### Other Internal Groups
+[Add additional internal stakeholder groups as relevant]
+- **Department/Group:** Human Resources
+- **Interest in Problem:** High costs and operational burden from turnover
+- **Interest in Solution:** High turnover rate, understaffing 
+- **Influence Level:** High, can incorporate policy, retention programs
+- **Support Level:** Likely a supporter
+
+- **Department/Group:** Quality/Risk Management 
+- **Interest in Problem:** Poor communication reduces incident reporting and learning
+- **Interest in Solution:** Safety, hospital ratings
+- **Influence Level:** Medium, can mandate improvement initiatives
+- **Support Level:** Likely a supporter
+## External Stakeholders
+
+### Customers/Clients
+- **Interest in Problem:** Reduced staff engagement can degrade care quality, safety, and patient experience.
+- **Interest in Solution:** Better continuity, fewer errors, higher satisfaction.
+- **Influence Level:** Medium influence through feedback/loyalty, via complaints, patient surveys, HCAHPS scores
+- **Support Level:** Likely supporter
+
+### Suppliers/Partners
+- **Interest in Problem:** High turnover increases reliance on agency staff; a business for agencies
+- **Interest in Solution:** Agencies may resist if it reduces demand; training vendors may support 
+(business opportunity).
+- **Influence Level:** Medium/Low influence on solution
+- **Support Level:** Likely supporter/neutral/resistant, more of a mixture of everything
+
+### Regulatory Bodies
+- **Interest in Problem:** Workforce stability and safe staffing are linked to regulatory 
+standards and accreditation.
+- **Interest in Solution:** Solutions that improve safety and retention align with compliance.
+- **Influence Level:** High regulatory power, can enforce standards
+- **Support Level:** Likely upportive if evidence shows safety gains.
+
+### Community/Society
+- **Interest in Problem:** Workforce shortages reduce access to care; local economy 
+may suffer from high turnover.
+- **Interest in Solution:** The community benefits from stable, high-quality services.
+- **Influence Level:** Medium/Low through public opinion, and political pressure.
+- **Support Level:** Likely community response is supportive
+
+## Stakeholder Engagement Strategy
+
+### High Influence, High Interest (Manage Closely)
+Stakeholders: Senior Management, HR, Quality & Safety
+Approach: Regular executive briefings, ROI modeling, steering committee membership, co-design workshops
+Use pilot data to secure buy-in.
+
+### High Influence, Low Interest (Keep Satisfied)
+Stakeholders: External regulators, large partner contractors. 
+Approach: Periodic updates, compliance reports; emphasize safety and accreditation benefits.
+
+### Low Influence, High Interest (Keep Informed)
+Stakeholders: Frontline staff, patient advocacy groups.
+Approach: Frequent town halls, unit meetings, surveys, transparent action logs showing how feedback is used.
+
+### Low Influence, Low Interest (Monitor)
+Stakeholders: Peripheral vendors, distant community groups. 
+Approach: Periodic newsletters; minimal engagement until impact changes
+
+## Key Stakeholder Insights for Evidence Collection
+
+### Who to Interview/Survey
+ Unit/charge nurses, middle managers, HR/quality director, patient experience lead
+
+### What Questions to Ask
+Frontline staff: “How often are you consulted about workflow changes?” and “How comfortable are you speaking up about safety?”
+Middle managers: “Which top-down decisions caused the most implementation friction?”; “What support would make staff participation feasible?”
+Senior leaders: “What outcomes/metrics would convince you to expand shared governance?”
+HR/Quality: “What are current turnover costs and safety incident trends?”
+
+### How to Engage
+Mixed methods: short surveys, semi-structured interviews, unit focus groups, shadowing, 
+document review (turnover stats, incident reports), and Use anonymous options to encourage honesty
+
+---
+INSTRUCTIONS:
+1. Be specific about each stakeholder group's interests and influence
+2. Consider both obvious and hidden stakeholders
+3. Think about implementation challenges from stakeholder perspectives
+4. This analysis will guide your stakeholder evidence collection
