@@ -2,27 +2,9 @@
 # Document your systematic approach to finding research evidence
 
 ## Research Question
-problem: Communication problems between upper and lower level management, with a primary focus on the healthcare industry
-
-2. Psychological Safety and Speaking Up
-Primary: How does inadequate communication from upper management affect frontline staff's psychological safety and willingness to report concerns?
-Secondary: Which leadership practices or organizational cultures have been shown to increase psychological safety and promote open reporting in healthcare settings?
-
-3. Information Silos Between Management Levels or Departments
-Primary: What does research say about the impact of siloed communication between hospital departments or leadership levels on care coordination and patient outcomes?
-Secondary: What organizational or technological interventions have been effective in breaking down silos and improving cross-level communication?
-
-4. Top-Down Decision Making and Staff Engagement
-Primary: How does poor downward communication or exclusive top-down decision-making influence staff engagement, morale, and retention in healthcare?
-Secondary: What participatory communication models or shared governance approaches have improved staff engagement and retention?
-
-6. Leadership Communication and Burnout/Moral Injury
-Primary: What connections does research draw between leadership communication quality and burnout or moral injury among healthcare professionals?
-Secondary: What communication practices or leadership behaviors have been shown to reduce burnout and support staff well-being?
-
-
-**Primary Research Question:** [What does research tell us about this problem?]
-**Secondary Research Question:** [What does research tell us about potential solutions?]
+problem: Communication problems between upper and lower level management, with a primary focus on the healthcare industry; Top-Down Decision Making and Staff Engagement
+**Primary Research Question:** How does poor downward communication or exclusive top-down decision-making influence staff engagement, morale, and retention in healthcare?
+**Secondary Research Question:** What participatory communication models or shared governance approaches have improved staff engagement and retention?
 
 
 ## Search Strategy
@@ -146,11 +128,3 @@ Solution Focused: (“shared governance” OR “participatory decision making�
 
 ### Topic-Specific Challenges
 [Issues unique to your research area]
-
----
-INSTRUCTIONS:
-1. Be systematic and comprehensive in your approach
-2. Document everything so others could replicate your search
-3. Focus on research relevant to both your problem AND potential solutions
-4. Use library resources and ask librarians for help with database searches
-5. Keep detailed records of what you find and why you include/exclude studies

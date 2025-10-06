@@ -1,103 +1,105 @@
 # Problem Definition Framework
-# Use this template to clearly define your management problem
-
 ## X → Y Framework
-### Current State (X - What's happening now that's problematic?): Decision-making is top-down, communication is one-directional → staff feel disengaged, undervalued, and turnover intention is high.
-Healthcare organizations often rely on exclusive top-down decisions, where policies and workflow changes are dictated by senior management with little input from frontline staff. 
-Thus this downward, one-way communication leaves staff feeling unheard, disengaged, and undervalued. Consequences include low morale, high turnover intention, and reduced staff trust in leadership.
+### Current State: Decision-making is top-down, communication is one-directional → staff feel disengaged, undervalued, and turnover intention is high
+Healthcare organizations often rely on exclusive top-down decisions, where policy and workflow changes are dictated by senior management with little input 
+from frontline staff. Thus this downward, one-way communication leaves staff feeling unheard, disengaged, and undervalued. Consequences include low morale, 
+high turnover intention, and reduced staff trust in leadership
 
-### Desired State (Y - Outcome we want to achieve?): Shared governance and participatory communication → staff are engaged, psychologically safe, and more likely to stay.
-Establish shared governance structures that empower lower level staff to participate in policy, workflow, and quality improvement decisions. By implementing participatory communication models, 
-to hopefully result in higher engagement, morale, and retention, while strengthening the organizational culture.
+### Desired State: Shared governance and participatory communication → staff are engaged, psychologically safe, and more encouraged to stay
+Establish shared governance structures that empower lower level staff to participate in policy, workflow, and quality improvement decisions. Implementing 
+a participatory communication model will hopefully result in higher engagement, morale, retention, and strengthen the organizational culture
 
 ## PICOC Framework
-### Population 
-Multidisciplinary healthcare staff teams (inc. nurses, doctos, techs), Upper level management (C-suite, program directors, etc)
+### Population
+Multidisciplinary healthcare staff teams (nurses, doctors, techs), Upper-level management (C-suite and program directors)
 
 ### Intervention (I - What solution/action are we considering?)
-Shared governance or participatory decision-making (staff involvement in policy/workflow decisions). Improve communication tools for downward & upward communication (inclusive decision forums)
+Shared governance or participatory decision-making (staff involvement in policy/workflow decisions). Improve communication tools for downward & upward 
+communication (inclusive decision forums)
 
 ### Comparison (C - What alternatives exist?)
-Traditional Top-down decision making, no staff involvement, settings where communivation is unidirectional (upper level down only)
+Traditional Top-down decision making, no staff involvement, settings where communication is unidirectional (Upper-level down only)
 
 ### Outcomes (O - What will success look like?)
 Increased staff engagement, lower turnover intention, higher work morale
 
 ### Context (C - Where/when does this apply?)
-This would apply to medium-large hospitals as well as any off-site sattelite location, and any other form of healthcare facility 
+This would apply to medium-large hospitals as well as off-site satellite location, and any form of healthcare facility 
 
 ## Clear Problem Statement
-Poor communication between upper-level management and lower-level employees results in misunderstandings, low engagement, and misalignment of organizational goals, with a specific focus in healthcare 
+Insufficient communication between upper management and lower-level employees within healthcare organizations, result in pervasive misunderstandings, 
+employee disengagement, and a disconnect between organizational strategy and daily operations
+
 
 ## Why This Problem Matters
 ### Impact on Organization
-Staff disengagement and morale issues lead to higher turnover rates, which is costly (recruitment, training, loss of continuity). Participatory decision-making and good leadership styles 
-can enhance employee satisfaction, improve teamwork, foster innovation, and help retain staff in challenging settings. High turnover and low morale impair patient care, 
-increase the risk of errors, degrade service quality, and reduce employee productivity
+- Staff disengagement and morale issues lead to higher turnover rates, which is costly (recruitment, training, loss of continuity)
+- Participatory decision-making with good leadership enhance employee satisfaction, improve teamwork, foster innovation, and help with staff retention
+- High turnover and low morale impair patient care, increase the risk of errors, degrade service quality, and reduce employee productivity
 
 ### Stakeholder Impact
-Senior Management:
-Problem: Disengaged staff reduce operational efficiency and patient care quality, affecting organizational Key Performance Indicators (KPIS).
-Solution: Implementing participatory communication improves retention, engagement, and workflow compliance.
+**Senior Management:**
+**Problem:** Disengaged staff reduce operational efficiency and patient care quality, affecting organizational Key Performance Indicators (KPIS)
+**Solution:** Implementing participatory communication improves retention, engagement, and workflow compliance
 
-Middle Management:
-Problem: Middle managers must reconcile top-down directives with frontline realities, leading to stress and implementation friction.
-Solution: Involving them in shared governance reduces friction, clarifies priorities, and empowers them to support their staff.
+**Middle Management:**
+**Problem:** Middle managers must reconcile top-down directives with frontline realities, leading to stress and implementation friction
+**solution:** Involving them in shared governance reduces friction, clarifies priorities, and empowers them to support their staff
 
-Frontline Staff (Nurses, Clinician, Physicians):
-Problem: Excluded from decisions → low morale, burnout, high turnover intention.
-Solution: Shared governance and participatory decision-making increase voice, job satisfaction, and commitment to the job.
+**Frontline Staff** (Nurses, Clinician, Physicians):
+**Problem:** Excluded from decisions → low morale, burnout, high turnover intention
+**Solution:** Shared governance and participatory decision-making increase voice, job satisfaction, and commitment to the job
 
-Internal Groups (HR, Quality & Safety):
-Problem: High turnover and low engagement increase the administrative burden and risk reporting gaps.
-Solution: Lower turnover and higher engagement among employees will reduce administrative load and enhance safety compliance.
+**Internal Groups ** (HR, Quality & Safety):
+**Problem:** High turnover and low engagement increase the administrative burden and risk reporting gaps
+**Solution:** Lower turnover and higher engagement among employees will reduce administrative load and enhance safety compliance
 
-External Stakeholders
-Patients/Clients:
-Problem: Higher staff disengagement can reduce quality of care, safety, and patient satisfaction.
-Solution: Higher engagement leads to better communication, safer and quality care, as well as improve patient satisfaction.
+**External Stakeholders**
 
-Suppliers/Partners:
-Problem: High turnover drives reliance on temporary staff, increasing costs.
-Solution: Retention reduces dependency on agency staff; vendors may benefit from stability and predictability.
+**Patients/Clients:**
+**Problem:** Higher staff disengagement can reduce quality of care, safety, and patient satisfaction
+**Solution:** Higher engagement leads to better communication, safer and quality care, as well as improve patient satisfaction.
 
-Regulatory Bodies:
-Problem: Workforce instability may compromise compliance with staffing and safety regulations.
-Solution: Improved engagement and retention align with hospital accreditation standards.
+**Suppliers/Partners:**
+**Problem:** High turnover drives reliance on temporary staff, increasing costs
+**solution:** Retention reduces dependency on agency staff; vendors may benefit from stability and predictability
 
-Community/Society:
-Problem: Poor retention and staff burnout affect access to care and overall community health.
-Solution: Stabilized workforce improves continuity of care and public trust.
+**Regulatory Bodies:**
+**Problem:** Workforce instability may compromise compliance with staffing and safety regulations
+**Solution:** Improved engagement and retention align with hospital accreditation standards
+
+**Community/Society:**
+**Problem:** Poor retention and staff burnout affect access to care and overall community health
+**Solution:** Stabilized workforce improves continuity of care and public trust
 
 ### Strategic Alignment
-Organizational Goals:
-Staff retention and engagement are critical to achieving quality, safety, and patient satisfaction KPIs. Shared governance and participatory decision-making align with 
-mission statements emphasizing employee empowerment and patient-centered care.
+**Organizational Goals:**
+- Staff retention and engagement are critical to achieve quality, safety, and patient satisfaction KPIs
+- Shared governance and participatory decision-making to align with the goal of emphasizing employee empowerment and patient-centered care
 
-Operational Priorities:
-Reducing turnover lowers costs associated with recruitment and agency staffing. Enhancing communication channels directly supports continuous improvement initiatives and patient safety priorities.
+**Operational Priorities:**
+- Reducing turnover lowers costs associated with recruitment and agency staffing
+- Enhancing communication channels to directly support continuous improvement initiatives and patient safety priorities
 
 ## Evidence Questions to Explore
 ### For the Problem (Step 2)
-- What evidence shows this problem exists?
-High turnover rates linked to top-down decision-making and poor engagement in hospital units. Low psychological safety and reduced staff voice are correlated with hierarchical, non-participatory leadership
-- How widespread is this problem?
-Surveys across multiple countries show a 20–30% voluntary nurse turnover in hospitals with low staff involvement in decisions. Engagement gaps affect developed and low-resource healthcare systems, suggesting a systemic issue
-- What are the root causes?
-Exclusive top-down communication, a lack of structured forums for staff input (shared governance councils, multidisciplinary huddles). Middle management is not empowered to translate feedback upward
+**What evidence shows this problem exists?**
+- High turnover rates linked to top-down decision-making and poor engagement in hospital units
+- Low psychological safety and reduced staff voice are correlated with hierarchical, non-participatory leadership
+**How widespread is this problem?**
+- Surveys across multiple countries show a 20–30% voluntary nurse turnover in hospitals with low staff involvement in decisions 
+- Engagement gaps affect developed and low-resource healthcare systems, suggesting a systemic issue
+**What are the root causes?**
+- Exclusive top-down communication, a lack of structured forums for staff input (shared governance councils, multidisciplinary huddles)
+- Middle management is not empowered to translate feedback upward
 
 ### For the Solution (Step 4)
-- What evidence supports our preferred solution?
-Shared governance, participatory decision-making, and transformational leadership increase engagement and retention. Psychological safety interventions lead to more reporting, improved morale, and retention.
-- Has this solution worked in similar contexts?
-In Rwanda, participatory decision-making and staff involvement reduced turnover. While in U.S. hospitals, implementing shared governance councils improved engagement scores and reduced turnover.
-- What are the potential risks and benefits?
-Risks: Initial increase in staff workload attending governance meetings, and potential resistance from managers who fear loss of control.
-Benefits: Higher staff engagement, morale, and retention, improved patient satisfaction and safety outcomes. Reduced turnover and agency staff costs.
-
----
-INSTRUCTIONS: 
-1. Replace all bracketed placeholders with your specific content
-2. Use GitHub Copilot to help with writing and organization
-3. Reference Module 2 content for framework guidance
-4. Save frequently and commit to GitHub
+**What evidence supports our preferred solution?**
+- Shared governance, participatory decision-making, and transformational leadership increase engagement and retention
+- Psychological safety interventions lead to more reporting, improved morale, and retention
+**Has this solution worked in similar contexts?**
+- In Rwanda, participatory decision-making and staff involvement reduced turnover
+- In U.S. hospitals, implementing shared governance councils improved engagement scores and reduced turnover
+**What are the potential risks and benefits?**
+**Risks:** Initial increase in staff workload attending governance meetings, and potential resistance from managers who fear loss of control
+**Benefits:** Higher staff engagement, morale, and retention, improved patient satisfaction and safety outcomes. Reduced turnover and agency staff costs
