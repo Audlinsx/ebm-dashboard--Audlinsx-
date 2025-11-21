@@ -1,6 +1,4 @@
 # Success Criteria Definition
-# Define specific, measurable criteria to evaluate solution effectiveness
-
 ## SMART Success Criteria
 
 ### Criterion 1: Increase Constructive Staff Voice & Reporting
@@ -95,7 +93,7 @@ Lower turnover at 12 months, higher HCAHPS communication scores, and sustained r
 
 ### Red Flags
 - Engagement or psychological safety scores decline
-- Meetings have poor attendence
+- Meetings have poor attendance
 - Staff reporting drops
 
 ### Mitigation Triggers

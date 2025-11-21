@@ -1,11 +1,4 @@
 # Stakeholder Analysis
-# Identify and analyze all parties affected by your problem and solution
-
-### What Questions to Ask
-**Frontline staff:** "How often are you consulted about workflow changes?" and "How comfortable are you speaking up about safety?"
-**Middle managers:** "Which top-down decisions caused the most implementation friction?" and "What support would make staff participation feasible?"
-**Senior leaders:** "What outcomes/metrics would convince you to expand shared governance?"
-**HR/Quality:** "What are current turnover costs and safety incident trends?"
 
 ### Senior Management
 **Interest in Problem:**  Senior leaders may see operational inefficiencies (higher overtime, agency staffing costs) when staff morale falls, or senior 
@@ -17,7 +10,7 @@ institutional knowledge and pay recruitment costs)
 
 ### Middle Management
 **Interest in Problem:** Middle managers shoulder day-to-day frustrations of reconciling top directives with frontline constraints; top-down orders without 
-consultation make their job harder. They may face blame for poor morale or poor performance metrics which they cannot control
+consultation makes their job harder. They may face blame for poor morale or poor performance metrics which they cannot control
 **Interest in Solution:** They will gain a clearer, co-created workflow, reduced conflict between staff and executives, and stronger unit performance. But a 
 risk includes added workload to participate in governance structures, like the time needed to attend meetings
 **Influence Level:** High/Medium,translate policy into practice; can champion or block change
