@@ -761,4 +761,5 @@ historical success)
 ---
 
 **Implementation Timeline:** 8-week data collection period following IRB approval, with rolling analysis and validation occurring throughout 
-collection phase. Weekly stakeholder updates and monthly preliminary findings reports to maintain organizational engagement and support throughout the evidence gathering process.
+collection phase. Weekly stakeholder updates and monthly preliminary findings reports to maintain organizational engagement and support throughout 
+the evidence gathering process.

@@ -303,11 +303,11 @@ stakeholder-based implementation recommendations before full-scale rollout
 **High-Priority Follow-Up Studies:**
 | Study Focus | Rationale | Proposed Methodology |
 |-------------|-----------|---------------------|
-| **Night Shift Communication Needs** | Address underrepresentation and challenges | Targeted surveys and interviews with night shift staff on all departments |
-| **Surgical Specialty Insights** | Gain understanding of specific communication needs and solutions | Focus groups and interviews with surgeons, anesthesiologists, and OR nurses |
-| **Emergency Department Dynamics** | Explore high-pressure communication scenarios and improvement opportunities | Observational study and interviews in the emergency department setting |
-| **Patient Engagement** | Enhance understanding of patient-centered communication improvements | Surveys and focus groups with patients and family, from underrepresented groups |
-| **Union Perspective on Communication Changes** | Understand potential resistance and support for communication initiatives | Interviews and surveys with union representatives and members |
+| **Night Shift Communication Needs** | Address underrepresentation and challenges | Targeted surveys and interviews with night shift staff on all departments|
+| **Surgical Insights** | Gain understanding of specific communication needs and solutions | Focus groups and interviews with surgeons, anesthesiologists, OR nurses|
+| **Emergency Department** | Explore high-pressure communication scenarios and improvement opportunities | Observational study and interviews in the emergency department|
+| **Patient Engagement** | Enhance understanding of patient-centered communication improvements| Surveys and focus groups with patients and family|
+| **Union Perspective on Communication Changes** | Understand potential resistance and support for communication initiatives | Interview and survey union members |
 
 ---
 
@@ -351,6 +351,6 @@ in healthcare communication improvement.
 ---
 **Overall Assessment:** This stakeholder evidence represents high-quality organizational research with exceptional participation rates and comprehensive 
 coverage providing strong foundation for evidence-based healthcare communication improvement decisions. Key strengths include large representative 
-sample, mixed-methods validation, and implementation-focused insights. Primary limitations involve night shift underrepresentation and COVID-era context 
-effects. Confidence level is high for problem definition and implementation guidance, with recommendations for targeted evidence improvement to address 
-specific gaps.
+sample, mixed-methods validation, and implementation-focused insights. Primary limitations involve night shift underrepresentation and COVID-era 
+context effects. Confidence level is high for problem definition and implementation guidance, with recommendations for targeted evidence 
+improvement to address specific gaps.
