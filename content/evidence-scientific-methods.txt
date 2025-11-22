@@ -1,8 +1,7 @@
 ---
 **Document:** Scientific Evidence - Research Methods & Search Strategy
-**Date:** November 21, 2024
-**Status:** Final Academic Submission
-**Framework:** Evidence-Based Management
+**Date:** November 21, 2025
+
 ---
 
 # Scientific Evidence: Research Methods & Search Strategy
@@ -10,7 +9,11 @@
 
 ## Executive Summary
 
-This systematic literature search employed **rigorous academic methodology** across **4 major databases** (PubMed, CINAHL, Business Source Premier, Cochrane Library) to identify high-quality research on healthcare communication improvement between management levels. The comprehensive search strategy yielded **2,829 initial records**, refined through systematic screening to **9 high-quality studies** meeting strict inclusion criteria. The methodology ensures **robust evidence base** with **average study quality score of 8.2/10** and **consistent effect sizes (d = 0.58-0.82)** supporting evidence-based decision making for healthcare communication interventions.
+This systematic literature search employed **rigorous academic methodology** across **4 major databases** (PubMed, CINAHL, Business Source Premier, 
+Cochrane Library) to identify high-quality research on healthcare communication improvement between management levels. The comprehensive search strategy 
+yielded **2,829 initial records**, refined through systematic screening to **9 high-quality studies** meeting strict inclusion criteria. The methodology 
+ensures **robust evidence base** with **average study quality score of 8.2/10** and **consistent effect sizes (d = 0.58-0.82)** supporting evidence-based 
+decision making for healthcare communication interventions.
 
 ### Search Strategy Overview
 | Search Component | Specification | Results | Quality Assurance |
@@ -25,7 +28,8 @@ This systematic literature search employed **rigorous academic methodology** acr
 ## 1. Research Question Development
 
 ### 1.1 Primary Research Question
-**"What evidence exists for the effectiveness of communication improvement interventions between management and staff levels in healthcare organizations?"**
+**"What evidence exists for the effectiveness of communication improvement interventions between management and staff levels in 
+healthcare organizations?"**
 
 ### 1.2 PICO Framework Application
 
@@ -315,4 +319,7 @@ AND ("employee engagement"[tiab] OR "job satisfaction"[tiab] OR "turnover"[tiab]
 
 ---
 
-**Research Methods Summary:** Systematic literature search employed rigorous methodology across 4 major databases, yielding 9 high-quality studies (average quality 8.2/10) from 2,829 initial records. Comprehensive search strategy, standardized screening protocols, and critical appraisal methods ensure robust evidence base for healthcare communication improvement interventions. Effect sizes consistently demonstrate medium to large benefits (d = 0.58-0.82) across multiple outcome domains, supporting evidence-based implementation of communication enhancement strategies.
+**Research Methods Summary:** Systematic literature search employed rigorous methodology across 4 major databases, yielding 9 high-quality studies 
+(average quality 8.2/10) from 2,829 initial records. Comprehensive search strategy, standardized screening protocols, and critical appraisal methods 
+ensure robust evidence base for healthcare communication improvement interventions. Effect sizes consistently demonstrate medium to large benefits 
+(d = 0.58-0.82) across multiple outcome domains, supporting evidence-based implementation of communication enhancement strategies.

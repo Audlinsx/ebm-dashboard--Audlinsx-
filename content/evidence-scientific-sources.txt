@@ -1,8 +1,6 @@
 ---
 **Document:** Scientific Evidence - Research Sources & Literature Review
-**Date:** November 21, 2024
-**Status:** Final Academic Submission
-**Framework:** Evidence-Based Management
+**Date:** November 21, 2025
 ---
 
 # Scientific Evidence: Research Sources & Literature Review
@@ -10,7 +8,11 @@
 
 ## Executive Summary
 
-This systematic literature review identified **9 high-quality studies** from comprehensive database searches across **4 major academic databases** (PubMed, CINAHL, Business Source Premier, Cochrane Library). The evidence synthesis demonstrates **consistent support** for structured communication interventions in healthcare settings, with **effect sizes ranging from d = 0.6 to 0.8** across multiple outcome measures. All studies show **medium to large effect sizes** for communication training and structured protocols, with **92% average CAT Manager relevance scores** supporting direct applicability to healthcare communication improvement between management levels.
+This systematic literature review identified **9 high-quality studies** from comprehensive database searches across **4 major academic databases** (PubMed, 
+CINAHL, Business Source Premier, Cochrane Library). The evidence synthesis demonstrates **consistent support** for structured communication interventions 
+in healthcare settings, with **effect sizes ranging from d = 0.6 to 0.8** across multiple outcome measures. All studies show **medium to large effect 
+sizes** for communication training and structured protocols, with **92% average CAT Manager relevance scores** supporting direct applicability to 
+healthcare communication improvement between management levels.
 
 ### Key Research Evidence Overview
 | Evidence Category | Studies (n) | Average Quality Score | Effect Size Range | Primary Finding |
@@ -80,7 +82,8 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 ### 2.1 Communication Training Interventions
 
 #### Study 1: Manager Communication Skills Training Program
-**Citation:** Johnson, K.M., et al. (2023). "Impact of structured communication training on nursing supervisor effectiveness." *Journal of Nursing Administration*, 53(4), 234-241.
+**Citation:** Johnson, K.M., et al. (2023). "Impact of structured communication training on nursing supervisor effectiveness." *Journal of Nursing 
+Administration*, 53(4), 234-241.
 
 **Research Design & Quality:**
 - **Study Type:** Randomized controlled trial
@@ -102,10 +105,12 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 3. **Change Communication:** Structured messaging frameworks
 4. **Monthly Coaching:** Individual skill reinforcement sessions
 
-**Relevance to Current Problem:** High (CAT Manager Score: 94%) - Direct application to nursing supervisor communication training needs identified in organizational evidence (58-73% competency gaps).
+**Relevance to Current Problem:** High (CAT Manager Score: 94%) - Direct application to nursing supervisor communication training needs identified in 
+organizational evidence (58-73% competency gaps).
 
 #### Study 2: Transformational Leadership Communication Program
-**Citation:** Rodriguez, M.A., et al. (2022). "Transformational leadership communication interventions in acute care settings." *Leadership in Health Services*, 35(3), 287-301.
+**Citation:** Rodriguez, M.A., et al. (2022). "Transformational leadership communication interventions in acute care settings." *Leadership in Health
+Services*, 35(3), 287-301.
 
 **Research Design & Quality:**
 - **Study Type:** Quasi-experimental with matched controls
@@ -128,7 +133,8 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 ### 2.2 Structured Communication Protocol Studies
 
 #### Study 3: Daily Huddle Implementation and Outcomes
-**Citation:** Chen, L.Y., et al. (2023). "Systematic implementation of daily safety huddles: Impact on communication and patient outcomes." *Joint Commission Journal on Quality and Patient Safety*, 49(6), 312-324.
+**Citation:** Chen, L.Y., et al. (2023). "Systematic implementation of daily safety huddles: Impact on communication and patient outcomes." *Joint 
+Commission Journal on Quality and Patient Safety*, 49(6), 312-324.
 
 **Research Design & Quality:**
 - **Study Type:** Multi-site implementation study with historical controls
@@ -157,7 +163,8 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 - **Feedback Integration:** Weekly huddle effectiveness assessment
 
 #### Study 4: Structured Leadership Rounds Impact Analysis
-**Citation:** Williams, J.D., et al. (2022). "Executive leadership rounds: Communication effectiveness and employee engagement outcomes." *American Journal of Nursing*, 122(8), 44-52.
+**Citation:** Williams, J.D., et al. (2022). "Executive leadership rounds: Communication effectiveness and employee engagement outcomes." *American 
+Journal of Nursing*, 122(8), 44-52.
 
 **Research Design & Quality:**
 - **Study Type:** Prospective cohort study with comparison units
@@ -180,7 +187,8 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 ### 2.3 Shared Governance and Participatory Management
 
 #### Study 5: Shared Governance Implementation in Healthcare Settings
-**Citation:** Thompson, R.K., et al. (2023). "Shared governance models: Impact on nurse communication satisfaction and retention." *Journal of Nursing Management*, 31(4), 156-167.
+**Citation:** Thompson, R.K., et al. (2023). "Shared governance models: Impact on nurse communication satisfaction and retention." *Journal of Nursing
+Management*, 31(4), 156-167.
 
 **Research Design & Quality:**
 - **Study Type:** Multi-center randomized implementation trial
@@ -209,7 +217,8 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 - **Training Investment:** Governance skills development for participants
 
 #### Study 6: Participatory Communication Culture Change
-**Citation:** Anderson, S.M., et al. (2022). "Creating participatory communication cultures in hospital settings: A mixed-methods evaluation." *Implementation Science*, 17(1), 78-91.
+**Citation:** Anderson, S.M., et al. (2022). "Creating participatory communication cultures in hospital settings: A mixed-methods evaluation." 
+*Implementation Science*, 17(1), 78-91.
 
 **Research Design & Quality:**
 - **Study Type:** Mixed-methods implementation research
@@ -242,7 +251,8 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 ### 3.1 Communication Training Meta-Analysis
 
 #### Study 7: Healthcare Communication Training Effectiveness
-**Citation:** Kumar, P.L., et al. (2023). "Communication training interventions for healthcare supervisors: A systematic review and meta-analysis." *Patient Experience Journal*, 10(2), 45-62.
+**Citation:** Kumar, P.L., et al. (2023). "Communication training interventions for healthcare supervisors: A systematic review and meta-analysis." 
+*Patient Experience Journal*, 10(2), 45-62.
 
 **Review Characteristics:**
 - **Studies Included:** 23 RCTs and quasi-experimental studies
@@ -267,7 +277,8 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 ### 3.2 Organizational Communication Interventions Review
 
 #### Study 8: Structured Communication Protocols in Healthcare
-**Citation:** Lee, H.K., et al. (2022). "Structured communication interventions in hospital settings: Systematic review of implementation and outcomes." *BMC Health Services Research*, 22(1), 445-467.
+**Citation:** Lee, H.K., et al. (2022). "Structured communication interventions in hospital settings: Systematic review of implementation and outcomes." 
+*BMC Health Services Research*, 22(1), 445-467.
 
 **Review Scope:**
 - **Studies Analyzed:** 31 implementation studies
@@ -296,7 +307,8 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 ### 4.1 Large-Scale Implementation Research
 
 #### Study 9: Multi-Hospital Communication Improvement Initiative
-**Citation:** Foster, A.R., et al. (2024). "Large-scale communication improvement in healthcare: Results from a multi-hospital implementation study." *Implementation Science Communications*, 5(1), 23-41.
+**Citation:** Foster, A.R., et al. (2024). "Large-scale communication improvement in healthcare: Results from a multi-hospital implementation study." 
+*Implementation Science Communications*, 5(1), 23-41.
 
 **Study Characteristics:**
 - **Study Type:** Pragmatic cluster-randomized trial
@@ -408,4 +420,8 @@ AND (employee engagement[tiab] OR job satisfaction[tiab] OR turnover[tiab] OR re
 
 ---
 
-**Scientific Evidence Summary:** High-quality research from 9 studies (n=28,653 participants) provides strong evidence for healthcare communication improvement interventions. Consistent medium to large effect sizes (d = 0.58-0.82) across multiple outcome domains support implementation of communication training, structured protocols, and shared governance approaches. Evidence quality is high (average 8.2/10), with 100% of studies showing positive outcomes. Implementation requirements align with organizational capacity ($1.8M average investment, 18-24 month timeline, 186% ROI), though customization needed for physician engagement and sustainability planning.
+**Scientific Evidence Summary:** High-quality research from 9 studies (n=28,653 participants) provides strong evidence for healthcare communication 
+improvement interventions. Consistent medium to large effect sizes (d = 0.58-0.82) across multiple outcome domains support implementation of 
+communication training, structured protocols, and shared governance approaches. Evidence quality is high (average 8.2/10), with 100% of studies
+showing positive outcomes. Implementation requirements align with organizational capacity ($1.8M average investment, 18-24 month timeline, 186% ROI), 
+though customization needed for physician engagement and sustainability planning.
