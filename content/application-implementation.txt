@@ -14,31 +14,17 @@
 
 #### **Does the Evidence Apply to Our 210-Bed Critical Access Hospital?**
 
-**Population Comparison:**
-- **Evidence Sources:** Large academic medical centers (Mayo Clinic, Cleveland Clinic), rural healthcare networks, meta-analyses across healthcare settings
-- **Our Context:** 210-bed critical access hospital with multidisciplinary staff (nursing, physicians, allied health, support services)
-- **Generalizability Assessment:** **High (90% applicable)** - Rural healthcare network evidence directly comparable; large system evidence applicable with 
-scale adaptation
-
-**Intervention Comparison:**
-- **Evidence Sources:** Shared governance councils, participatory decision-making, communication enhancement, leadership development
-- **Our Context:** Implementing identical shared governance model with critical access hospital resource adaptations
-- **Generalizability Assessment:** **High (95% applicable)** - Intervention components directly transferable with resource scaling
-
-**Comparison/Context Factors:**
-- **Evidence Sources:** Traditional hierarchical vs. shared governance, various organizational sizes and settings
-- **Our Context:** Current top-down communication (22.1% turnover, 68.2% HCAHPS) vs. shared governance target
-- **Generalizability Assessment:** **High (88% applicable)** - Baseline problems align closely with evidence contexts
-
-**Outcomes Comparison:**
-- **Evidence Sources:** 15-30% turnover reduction, engagement improvement, patient satisfaction enhancement, cost savings
-- **Our Context:** Targeting turnover reduction (22.1%→16%), engagement improvement (2.9→3.5/5.0), HCAHPS improvement (68.2%→73.2%)
-- **Generalizability Assessment:** **High (92% applicable)** - Outcome targets align with evidence-based expectations
+| **Component** | **Evidence → Our Context** | **Generalizability** |
+|---------------|----------------------------|---------------------|
+| **Population** | Large medical centers + rural networks → 210-bed critical access hospital | **High (90% applicable)** |
+| **Intervention** | Shared governance councils + training → Identical model with resource scaling | **High (95% applicable)** |
+| **Comparison** | Hierarchical vs. shared governance → Current top-down vs. shared governance | **High (88% applicable)** |
+| **Outcomes** | 15-30% turnover reduction → Target 22.1%→16% turnover reduction | **High (92% applicable)** |
 
 **Context Adaptation Requirements:**
 - **Resource Constraints:** Smaller budget requires phased implementation and creative resource utilization
 - **Rural Factors:** Limited recruitment pool increases retention importance and change management caution needs
-- **Size Considerations:** Smaller staff complement amplifies individual engagement impact and resistance effects
+- **Size Considerations:** Smaller staff complement amplifies individual stakeholder engagement impact and resistance effects
 
 **Overall Evidence Applicability:** **High (91% confidence)** - Evidence strongly applies with minor critical access hospital adaptations
 
@@ -77,35 +63,19 @@ scale adaptation
 - **Staff Well-being:** Reduced burnout, improved job satisfaction, enhanced professional development
 - **Organizational Reputation:** Magnet readiness, regional healthcare leadership positioning
 - **Patient Experience:** Enhanced communication, improved safety outcomes, increased satisfaction
-- **Culture Transformation:** Sustainable participatory decision-making, innovation cultivation
+- **Culture Transformation:** Sustainable shared governance decision-making, innovation cultivation
 
 ### Biggest Bang Analysis (7 Questions Framework - Question 3)
 
 #### **Alternative Comparison Analysis:**
 
-**Alternative 1: Enhanced Communication Training Only**
-- **Cost:** $125,000 annually
-- **Expected Impact:** 10-15% improvement in communication scores, minimal turnover impact
-- **ROI:** 85% - positive but limited scope
-- **Assessment:** Lower impact, misses structural change opportunity
-
-**Alternative 2: Management Restructuring Without Shared Governance**
-- **Cost:** $350,000 (recruitment, training, reorganization)
-- **Expected Impact:** Variable results, potential disruption without participation enhancement
-- **ROI:** 60-120% with high uncertainty
-- **Assessment:** Higher risk, doesn't address staff voice concerns
-
-**Alternative 3: Technology-Enhanced Communication Solutions**
-- **Cost:** $200,000 (platform licensing, integration, training)
-- **Expected Impact:** Efficiency improvements but limited culture change
-- **ROI:** 110% focused on operational efficiency
-- **Assessment:** Addresses symptoms but not root causes
-
-**Alternative 4: Status Quo with Minor Adjustments**
-- **Cost:** $50,000 (training, small process improvements)
-- **Expected Impact:** 5-8% improvements, continued baseline performance
-- **ROI:** 40% - minimal positive impact
-- **Assessment:** Inadequate response to evidence-documented problems
+| **Alternative** | **Cost → Expected Impact** | **ROI** | **Assessment** |
+|-----------------|---------------------------|---------|----------------|
+| **Enhanced Communication Training** | $125K → 10-15% communication improvement | 85% | Lower impact, misses structural change |
+| **Management Restructuring** | $350K → Variable results, potential disruption | 60-120% | Higher risk, doesn't address staff voice |
+| **Technology Solutions** | $200K → Efficiency improvements, limited culture change | 110% | Addresses symptoms, not root causes |
+| **Status Quo + Minor Adjustments** | $50K → 5-8% improvements, continued baseline | 40% | Inadequate response to problems |
+| **Comprehensive Shared Governance** | $475K → Complete culture transformation | **190%** | **Highest ROI, addresses root causes** |
 
 **Comparative Assessment:** **Comprehensive shared governance provides biggest bang for investment** - highest ROI (190%), addresses root causes, creates 
 sustainable culture change, and aligns with strongest evidence base (85% Bayesian confidence).
@@ -118,17 +88,11 @@ sustainable culture change, and aligns with strongest evidence base (85% Bayesia
 
 #### **High-Probability, Medium-Impact Risks (Acceptable Risk Range):**
 
-**Risk 1: Management Resistance Delays (Likelihood: 65%, Impact: Medium)**
-- **Evidence Basis:** 43% managers express authority concerns; practitioner evidence shows 73% organizations experience resistance
-- **Mitigation Strategy:** Intensive change management investment ($75K), individual coaching, peer support networks
-- **Contingency Plan:** Extended timeline accommodation, additional training resources, leadership intervention
-- **Risk Acceptability:** **Acceptable** - manageable through evidence-based mitigation strategies
-
-**Risk 2: Implementation Timeline Extension (Likelihood: 55%, Impact: Medium)**
-- **Evidence Basis:** Practitioner evidence suggests 12-18 month variation; critical access hospitals may need longer adaptation periods
-- **Mitigation Strategy:** Phased implementation with milestone flexibility, stakeholder expectation management
-- **Contingency Plan:** Timeline adjustment with maintained resource commitment and communication transparency
-- **Risk Acceptability:** **Acceptable** - delayed ROI realization but not intervention failure
+| **Risk** | **Likelihood → Impact** | **Mitigation Strategy** | **Acceptability** |
+|----------|------------------------|------------------------|-------------------|
+| **Management Resistance Delays** | 65% → Medium | $75K change management + coaching + peer support | **Acceptable** - evidence-based mitigation |
+| **Timeline Extension** | 55% → Medium | Phased implementation + milestone flexibility | **Acceptable** - delayed ROI, not failure |
+| **Staff Engagement Fatigue** | 25% → High | Monthly pulse surveys + participation tracking | **Acceptable with Monitoring** |
 
 #### **Lower-Probability, Higher-Impact Risks (Monitoring Required):**
 
@@ -151,32 +115,15 @@ sustainable culture change, and aligns with strongest evidence base (85% Bayesia
 
 ### **Are There Ethical Issues to Consider?**
 
-#### **Staff Welfare and Autonomy:**
-**Ethical Principle:** Respect for staff professional autonomy and well-being
-- **Current Ethical Concern:** Top-down communication limits staff professional input and decision-making autonomy
-- **Intervention Alignment:** Shared governance directly addresses autonomy concerns by enhancing staff voice and participation
-- **Ethical Benefit:** Improves professional satisfaction, reduces burnout, enhances career development opportunities
+| **Ethical Principle** | **Current Concern → Intervention Benefit** |
+|---------------------|-------------------------------------------|
+| **Staff Welfare & Autonomy** | Top-down limits autonomy → Shared governance enhances staff voice + participation |
+| **Patient Care & Safety** | Communication failures (35% safety events) → Improved communication + staff stakeholder engagement |
+| **Resource Stewardship** | Need responsible resource use → $475K cost justified by $905K benefits + patient outcomes |
+| **Change Management Ethics** | Need transparent process → Evidence-based decisions + stakeholder input + respectful development |
 
-#### **Patient Care Quality and Safety:**
-**Ethical Principle:** Primary obligation to patient welfare and safety outcomes
-- **Current Ethical Concern:** Communication failures contribute to 35% of safety events, compromising patient welfare
-- **Intervention Alignment:** Evidence demonstrates improved communication reduces safety events and enhances patient satisfaction
-- **Ethical Benefit:** Direct patient welfare improvement through enhanced staff engagement and communication
-
-#### **Resource Stewardship:**
-**Ethical Principle:** Responsible use of organizational and community resources
-- **Investment Justification:** $475K implementation cost justified by $905K annual benefits and improved patient outcomes
-- **Community Benefit:** Enhanced healthcare quality and staff retention benefits rural community healthcare access
-- **Ethical Assessment:** Strong positive ethical alignment - improves staff welfare, patient outcomes, and community benefit
-
-#### **Change Management Ethics:**
-**Ethical Principle:** Transparent, inclusive change process respecting stakeholder concerns
-- **Approach:** Evidence-based decision-making with stakeholder input integration and transparent communication
-- **Resistance Management:** Respectful address of manager concerns through development rather than dismissal
-- **Ethical Assessment:** Ethical change process emphasizing inclusion, transparency, and development support
-
-**Overall Ethical Assessment:** **Strong Positive Ethical Alignment** - intervention directly supports staff welfare, patient safety, and community benefit 
-with transparent, evidence-based implementation approach.
+**Overall Ethical Assessment:** **Strong Positive Ethical Alignment** - intervention directly supports staff welfare, patient safety, and community benefit with 
+transparent, evidence-based implementation approach.
 
 ---
 
@@ -210,8 +157,8 @@ with transparent, evidence-based implementation approach.
 - **Contingency Planning:** Alternative approaches and adjustment mechanisms integrated
 - **Assessment:** **High Actionability** - barriers identified with evidence-based mitigation strategies
 
-**Overall Actionability Assessment:** **High (88% actionable)** - evidence provides clear, specific, feasible implementation pathway with adequate resources 
-and organizational readiness.
+**Overall Actionability Assessment:** **High (88% actionable)** - evidence provides clear, specific, feasible implementation pathway with adequate resources and 
+organizational readiness.
 
 ---
 
@@ -222,7 +169,7 @@ and organizational readiness.
 #### **Critical Access Hospital Context Moderators:**
 
 **Size and Scale Moderators:**
-- **Staff Complement Impact:** Smaller staff size (210 beds) amplifies individual engagement effects and resistance impacts
+- **Staff Complement Impact:** Smaller staff size (210 beds) amplifies individual stakeholder engagement effects and resistance impacts
 - **Implementation Adaptation:** Reduced council size requirements, simplified governance structure, streamlined decision-making processes
 - **Success Implication:** Higher individual impact potential but greater vulnerability to staff turnover during implementation
 
@@ -266,21 +213,21 @@ viability or expected outcomes.
 ## Core Implementation Components
 
 ### **Theory of Change**
-**Problem:** Top-down communication structures → staff disengagement (2.9/5.0) → high turnover (22.1%) → elevated costs ($1.247M) → poor patient satisfaction 
+**Problem:** Top-down communication structures → staff disengagement (2.9/5.0) → high turnover (22.1%) → elevated costs ($1.247M) → poor patient satisfaction
 (68.2% HCAHPS) → safety risks (35% communication-related incidents)
 
 **Inputs:** $475K investment, leadership commitment, staff time allocation, change management expertise, measurement systems
 
-**Activities:** Shared governance council establishment, participatory decision-making training, communication enhancement, management development, measurement 
-implementation
+**Activities:** Shared governance council establishment, shared governance decision-making training, communication enhancement, management 
+development, measurement implementation
 
 **Outputs:** Functional governance councils, trained staff and managers, enhanced communication processes, measurement dashboards
 
-**Outcomes:** Increased engagement (2.9→3.5/5.0), reduced turnover (22.1%→16%), improved communication (68.2%→73.2% HCAHPS)
+**Outcomes:** Increased stakeholder engagement (2.9→3.5/5.0), reduced turnover (22.1%→16%), improved communication (68.2%→73.2% HCAHPS)
 
-**Impact:** Sustainable participatory culture, enhanced patient outcomes, improved financial performance, regional healthcare leadership
+**Impact:** Sustainable shared governance culture, enhanced patient outcomes, improved financial performance, regional healthcare leadership
 
-**Assumptions:** Staff desire increased participation, management adaptability with support, organizational readiness for culture change, evidence-based 
+**Assumptions:** Staff desire increased participation, management adaptability with support, organizational readiness for culture change, evidence-based
 interventions transfer to critical access hospital context
 
 **External Factors:** Regional nursing shortage, healthcare regulation changes, community expectations, competitive healthcare environment
@@ -292,20 +239,23 @@ interventions transfer to critical access hospital context
 ### **Recommendation 1: Comprehensive Shared Governance with Intensive Change Management (Primary Recommendation)**
 
 #### **Clear Description:**
-Implement complete shared governance model including unit-based councils, organizational councils, participatory decision-making protocols, and 
+Implement complete shared governance model including unit-based councils, organizational councils, shared governance decision-making protocols, and 
 comprehensive change management program addressing manager resistance and staff development needs.
 
 #### **Evidence Connection:**
-- **Scientific Support:** Meta-analyses demonstrate 15-30% turnover reduction, 23% engagement improvement
+- **Scientific Support:** Meta-analyses demonstrate 15-30% turnover reduction, 23% stakeholder engagement improvement
 - **Practitioner Validation:** Mayo Clinic (28% turnover reduction), rural networks (19% average improvement)
 - **Organizational Alignment:** Addresses baseline problems (22.1% turnover, 2.9/5.0 engagement, $1.247M costs)
 - **Stakeholder Support:** Strong staff interest (78%), leadership commitment (89%), manageable resistance (43%)
 
 #### **Expected Outcomes and Timeline:**
-- **3 Months:** Council establishment, initial training completion, early participation increases
-- **6 Months:** Measurable engagement improvement (2.9→3.2/5.0), suggestion increase (8→11/month)
-- **12 Months:** Significant turnover reduction (22.1%→18%), HCAHPS improvement (68.2%→71%)
-- **18 Months:** Target achievement (16% turnover, 3.5/5.0 engagement, 73% HCAHPS)
+
+| **Timeframe** | **Expected Outcomes** |
+|---------------|----------------------|
+| **3 Months** | Council establishment + training completion + early participation increases |
+| **6 Months** | Measurable stakeholder engagement improvement (2.9→3.2/5.0) + suggestion increase (8→11/month) |
+| **12 Months** | Significant turnover reduction (22.1%→18%) + HCAHPS improvement (68.2%→71%) |
+| **18 Months** | Target achievement (16% turnover + 3.5/5.0 engagement + 73% HCAHPS) |
 
 #### **Implementation Steps:**
 
@@ -327,32 +277,23 @@ comprehensive change management program addressing manager resistance and staff 
 - **Culture Integration:** Participation normalization, success recognition, continuous improvement, sustainability planning
 
 **Phase 4: Sustainability and Optimization (Months 16-18)**
-- **Performance Analysis:** Comprehensive outcome measurement, ROI calculation, stakeholder satisfaction assessment
+- **Performance Analysis:** Comprehensive outcome measurement, ROI calculation, stakeholder engagement assessment
 - **Continuous Improvement:** Process refinements, efficiency enhancements, expansion opportunities, best practice documentation
 - **Long-term Planning:** Sustainability strategies, resource optimization, knowledge transfer, future development
 
 #### **Potential Barriers and Address Strategies:**
 
-**Barrier 1: Manager Resistance to Authority Changes**
-- **Mitigation:** $75K change management consulting, individual coaching, authority enhancement focus, peer support development
-- **Monitoring:** Bi-weekly manager meetings, resistance assessment surveys, participation rate tracking
-- **Contingency:** Extended coaching periods, role modification options, leadership intervention support
-
-**Barrier 2: Staff Participation Sustainability**
-- **Mitigation:** Protected time guarantee, recognition programs, professional development opportunities, career advancement pathways
-- **Monitoring:** Monthly participation tracking, engagement pulse surveys, focus group feedback
-- **Contingency:** Participation requirement flexibility, incentive enhancement, workload adjustment
-
-**Barrier 3: Implementation Timeline Pressure**
-- **Mitigation:** Phased approach with milestone flexibility, stakeholder expectation management, progress communication
-- **Monitoring:** Monthly milestone assessment, timeline adjustment triggers, stakeholder feedback
-- **Contingency:** Timeline extension with maintained resource commitment, phase prioritization, scope adjustment
+| **Barrier** | **Mitigation → Monitoring → Contingency** |
+|-------------|-------------------------------------------|
+| **Manager Resistance** | $75K consulting + coaching + peer support → Bi-weekly meetings + surveys → Extended coaching + leadership intervention |
+| **Staff Participation** | Protected time + recognition + development → Monthly tracking + pulse surveys → Flexibility + incentives + workload adjustment |
+| **Timeline Pressure** | Phased approach + flexibility + communication → Monthly milestones + feedback → Timeline extension + maintained resources |
 
 ### **Recommendation 2: Pilot-Based Phased Implementation (Risk Mitigation Alternative)**
 
 #### **Clear Description:**
-Begin with intensive pilot implementation on 2 high-readiness units, demonstrate success, then expand organization-wide with reduced risk and 
-enhanced staff confidence.
+Begin with intensive pilot implementation on 2 high-readiness units, demonstrate success, then expand organization-wide with reduced risk and enhanced 
+staff confidence.
 
 #### **Evidence Connection:**
 - **Practitioner Support:** Successful organizations emphasize pilot approaches for risk mitigation and stakeholder confidence
@@ -377,8 +318,8 @@ enhanced staff confidence.
 ### **Recommendation 3: Enhanced Measurement and Continuous Improvement Focus (Complementary Recommendation)**
 
 #### **Clear Description:**
-Implement comprehensive measurement system with real-time feedback, continuous improvement processes, and stakeholder communication to maximize 
-intervention effectiveness and sustainability.
+Implement comprehensive measurement system with real-time feedback, continuous improvement processes, and stakeholder communication to maximize intervention 
+effectiveness and sustainability.
 
 #### **Evidence Connection:**
 - **Scientific Support:** Measurement-driven interventions show higher success rates and sustainability
@@ -461,9 +402,9 @@ intervention effectiveness and sustainability.
 **Participation Encouragement:** Ongoing opportunity communication, skill development support, achievement recognition
 
 #### **Sustainability Phase Communication (Months 16-18+)**
-**Outcome Documentation:** Comprehensive success measurement, ROI demonstration, stakeholder satisfaction reporting
+**Outcome Documentation:** Comprehensive success measurement, ROI demonstration, stakeholder engagement reporting
 **Continuous Improvement:** Ongoing enhancement opportunities, best practice sharing, future development planning
-**Culture Integration:** Participatory decision-making normalization, professional development continuation, excellence celebration
+**Culture Integration:** Shared governance decision-making normalization, professional development continuation, excellence celebration
 
 ---
 
@@ -473,11 +414,11 @@ intervention effectiveness and sustainability.
 
 #### **Short-term Success Indicators (0-6 months)**
 - **Process Implementation:** Council establishment (100%), training completion (90%+), participation rates (75%+)
-- **Early Engagement:** Suggestion increases (20%+), meeting attendance (70%+), staff satisfaction improvement (0.3+ points)
+- **Early Stakeholder Engagement:** Suggestion increases (20%+), meeting attendance (70%+), staff satisfaction improvement (0.3+ points)
 - **Resistance Management:** Manager resistance reduction (50%), coaching participation (100%), peer support activation
 
 #### **Medium-term Achievement Targets (6-15 months)**  
-- **Engagement Transformation:** Employee engagement improvement (2.9→3.5/5.0), turnover trend reversal (5%+ reduction)
+- **Stakeholder Engagement Transformation:** Employee engagement improvement (2.9→3.5/5.0), turnover trend reversal (5%+ reduction)
 - **Quality Enhancement:** HCAHPS communication improvement (3+ points), safety event reduction (20%)
 - **Financial Impact:** Cost reduction demonstration ($200K+), ROI achievement (150%+)
 
@@ -496,8 +437,8 @@ intervention effectiveness and sustainability.
 ---
 
 **Implementation Plan Summary:** Evidence-based shared governance implementation with 85% confidence provides optimal intervention approach for our 210-bed 
-critical access hospital context. **Comprehensive approach** addresses all 7 Questions Framework considerations with **high expected value** (302% ongoing ROI), 
-**acceptable risk levels** (evidence-based mitigation), **strong ethical alignment** (staff and patient benefit), and **high actionability** 
-(specific implementation pathway). **Three integrated recommendations** provide primary implementation approach, risk mitigation alternative, and measurement 
-enhancement focus with **detailed resource requirements** ($600K investment, $905K annual benefits) and **comprehensive stakeholder engagement** supporting 
-sustainable organizational culture transformation.
+critical access hospital context. **Comprehensive approach** addresses all 7 Questions Framework considerations with **high expected value** (302% ongoing ROI),
+ **acceptable risk levels** (evidence-based mitigation), **strong ethical alignment** (staff and patient benefit), and **high actionability** 
+ (specific implementation pathway). **Three integrated recommendations** provide primary implementation approach, risk mitigation alternative, and measurement 
+ enhancement focus with **detailed resource requirements** ($600K investment, $905K annual benefits) and **comprehensive stakeholder engagement** supporting 
+ sustainable organizational culture transformation.
