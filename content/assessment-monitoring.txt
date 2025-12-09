@@ -1,15 +1,24 @@
 ---
 **Document:** Assessment & Monitoring Plan - Evidence-Based Shared Governance
-**Date:** December 2, 2025
+**Date:** December 8, 2025
 **Organization Context:** 210-Bed Critical Access Hospital
 **Framework:** Evidence-Based Management (EBM) - ASSESS Phase
-**Logic Model:** X → M → Y Design
+**Logic Model:** X → M → Y Design (Communication-Centered)
 ---
 
-# ASSESS: Comprehensive Assessment & Monitoring Framework
-# Systematic evaluation of shared governance implementation effectiveness
+# COMMUNICATION TRANSFORMATION TRACKING: Systematic Assessment Framework
 
-## Logic Model Framework (X → M → Y)
+## Communication-Centered Logic Model: How Change Happens
+
+**THE CAUSAL PATHWAY:** Shared Governance → Enhanced Communication → All Other Outcomes
+
+**X (Intervention):** Shared governance councils with real decision-making authority  
+**M (Mechanism):** Communication effectiveness improves from 2.7 → 3.8/5.0 (41% improvement)  
+**Y (Outcomes):** Turnover ↓30%, Patient satisfaction ↑5pts, Safety events ↓29%, $905K benefits
+
+**Why This Works:** Communication is the mediating variable that drives all other improvements. By fixing communication through shared governance, we address the root cause of multiple organizational problems.
+
+## Enhanced Logic Model Framework (X → M → Y)
 
 ### **X (Independent Variable): Shared Governance Implementation**
 

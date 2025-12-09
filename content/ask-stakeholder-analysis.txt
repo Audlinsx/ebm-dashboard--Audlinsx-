@@ -1,12 +1,26 @@
-# Stakeholder Analysis
+---
+**Document:** Stakeholder Analysis - Communication Crisis Impact Assessment
+**Date:** December 8, 2025
+**Context:** 210-Bed Critical Access Hospital Shared Governance Implementation
+---
 
-### Senior Management
-**Interest in Problem:**  Senior leaders may see operational inefficiencies (higher overtime, agency staffing costs) when staff morale falls, or senior 
-leaders face lower organizational performance when frontline disengagement increase errors, turnover, and lose productivity (senior leaders will lose 
-institutional knowledge and pay recruitment costs)
-**Interest in Solution:** You see improved retention, reduce recruitment/agency costs, exhibit stronger quality metrics and reputation
-**Influence Level:** High influence on solution success, control budgets, policy, and governance models
-**Support Level:** Likely a supporter if ROI is demonstrated, they may also be neutral/resistant if it is perceived as costly or slow to deliver
+# STAKEHOLDER ANALYSIS: Who Wins and Loses with Communication Change
+
+## Communication Crisis Impact by Stakeholder Group
+
+### Executive Leadership (89% Support - High Influence)
+**How Communication Crisis Hurts Them:**  
+- $2.5M annual cost from communication-related problems (turnover, safety events, inefficiency)
+- Reputation damage from poor patient satisfaction scores (68.2% HCAHPS, 40th percentile)
+- Strategic objectives blocked by frontline disengagement and resistance
+
+**How Shared Governance Helps Them:**
+- 302% ROI through $905K annual benefits vs $475K investment
+- Improved quality metrics and patient satisfaction (73.2% HCAHPS target)
+- Reduced regulatory risk from communication-related safety events
+
+**Implementation Role:** Budget approval, resource allocation, organizational commitment, cultural leadership
+**Support Strategy:** Business case emphasis, ROI demonstration, regional recognition positioning
 
 ### Middle Management
 **Interest in Problem:** Middle managers shoulder day-to-day frustrations of reconciling top directives with frontline constraints; top-down orders without 

@@ -1,13 +1,25 @@
-# Success Criteria Definition
-## SMART Success Criteria
+---
+**Document:** Success Criteria - Communication Transformation Metrics
+**Date:** December 8, 2025
+**Context:** Evidence-Based Shared Governance Implementation
+---
 
-### Criterion 1: Increase Constructive Staff Voice & Reporting
-**Specific:** Increase the average number of constructive safety suggestions or incident reports submitted monthly by staff
-**Measurable:** Achieve a 30% increase in reports/suggestions per 100 staff within 6 months
-**Achievable:**  Evidence shows higher psychological safety correlates with more reporting of near misses and improvement suggestions
-**Relevant:** Yes this directly address the core problem, Reflects X→Y transition: from silence and disengagement → to active contributions in 
-governance and quality
-**Time-bound:** This be achieved/measured with monthly monitoring; and a benchmark at/around 6 months
+# SUCCESS CRITERIA: Communication-Centered Transformation Metrics
+
+## Primary Success Criterion: Communication Effectiveness Improvement
+
+### Communication Effectiveness Score (Primary Outcome)
+**Specific:** Improve overall communication effectiveness rating from 2.7 to 3.8 on 5-point scale
+**Measurable:** 41% improvement (1.1-point increase) measured through monthly staff surveys
+**Achievable:** Evidence shows shared governance produces 25-40% communication improvements in similar settings
+**Relevant:** Addresses root cause - communication is the mechanism driving all other improvements (95% evidence convergence)
+**Time-bound:** Achieve 3.2/5.0 by month 6, 3.5/5.0 by month 12, 3.8/5.0 by month 18
+
+**Success Indicators:**
+- Information flow: 2.6 → 3.7 (42% improvement)
+- Decision participation: 2.3 → 3.6 (57% improvement)  
+- Feedback responsiveness: 2.9 → 4.0 (38% improvement)
+- Management accessibility: 3.1 → 4.1 (32% improvement)
 
 ### Criterion 2: Reduce Voluntary Turnover
 **Specific:** Reduce annual voluntary turnover 

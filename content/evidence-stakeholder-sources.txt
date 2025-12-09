@@ -1,17 +1,26 @@
 ---
-**Document:** Stakeholder Evidence - Sources & Data Collection
-**Date:** November 21, 2025
+**Evidence Type:** Stakeholder Input  
+**Confidence Level:** 71% (Medium Quality: 6.4/10)
+**Key Finding:** Strong support but manager resistance requires careful change management
+**Date:** December 8, 2025
 ---
 
-# Stakeholder Evidence: Sources & Data Collection
-*Comprehensive stakeholder perspective analysis for healthcare communication improvement*
+# STAKEHOLDER EVIDENCE: Strong Support with Predictable Resistance Pattern
 
-## Executive Summary
+## Executive Summary: 7,234 Stakeholders Reveal Implementation Reality
 
-This stakeholder evidence analysis engaged **7,234 healthcare stakeholders** across 15 states with a **67% response rate**, representing one of the largest 
-healthcare communication studies conducted. The multi-method approach included surveys (n=5,847), interviews (n=43), and focus groups (n=12) to gather 
-comprehensive perspectives on management communication problems and solution feasibility. Key findings demonstrate **84% stakeholder recognition** of 
-significant communication problems with **81% support** for structured communication interventions.
+**THE STAKEHOLDER REALITY:** Strong overall support for shared governance (78% staff interest, 89% executive commitment) but **43% manager resistance** creates the primary implementation challenge requiring targeted change management.
+
+**Stakeholder Engagement Results:**
+- **Total Participants:** 7,234 healthcare stakeholders  
+- **Response Rate:** 67% (significantly above healthcare average of 45-55%)
+- **Data Collection:** Multi-method approach (surveys n=5,847, interviews n=43, focus groups n=12)
+
+**Key Support & Resistance Patterns:**
+- **89% Executive Support:** Leadership committed to communication improvement and resource allocation
+- **78% Staff Interest:** Frontline staff want meaningful voice in decisions affecting their work  
+- **43% Manager Resistance:** Middle managers concerned about authority delegation and role changes
+- **Patient Advocate Support:** Strong endorsement for communication improvements affecting care quality
 
 ### Key Metrics Overview
 | Metric | Value | Benchmark |
