@@ -16,7 +16,8 @@
 **M (Mechanism):** Communication effectiveness improves from 2.7 → 3.8/5.0 (41% improvement)  
 **Y (Outcomes):** Turnover ↓30%, Patient satisfaction ↑5pts, Safety events ↓29%, $905K benefits
 
-**Why This Works:** Communication is the mediating variable that drives all other improvements. By fixing communication through shared governance, we address the root cause of multiple organizational problems.
+**Why This Works:** Communication is the mediating variable that drives all other improvements. By fixing communication through shared governance, we address 
+the root cause of multiple organizational problems.
 
 ## Enhanced Logic Model Framework (X → M → Y)
 

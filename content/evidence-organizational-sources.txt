@@ -17,8 +17,8 @@
 
 ## Data Collection Summary
 **Collection Period:** January 2022 to December 2024  
-**Data Sources Accessed:** 12 internal data systems (HRIS, EHR, financial systems, patient satisfaction platforms, quality databases, learning management systems)
-**Data Quality Assessment:** Very High (9.4/10) - Enterprise data warehouse with validated metrics and comprehensive communication tracking dashboards
+**Data Sources Accessed:** 12 internal data systems (HRIS, EHR, financial systems, patient satisfaction platforms, quality databases, learning management 
+systems) **Data Quality Assessment:** Very High (9.4/10) - Enterprise data warehouse with validated metrics and comprehensive communication tracking dashboards
 
 ## Performance Metrics Analysis
 

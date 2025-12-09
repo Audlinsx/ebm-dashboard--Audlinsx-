@@ -303,11 +303,11 @@ stakeholder-based implementation recommendations before full-scale rollout
 **High-Priority Follow-Up Studies:**
 | Study Focus | Rationale | Proposed Methodology |
 |-------------|-----------|---------------------|
-| **Night Shift Communication Needs** | Address underrepresentation and challenges | Targeted surveys and interviews with night shift staff on all departments|
-| **Surgical Insights** | Gain understanding of specific communication needs and solutions | Focus groups and interviews with surgeons, anesthesiologists, OR nurses|
-| **Emergency Department** | Explore high-pressure communication scenarios and improvement opportunities | Observational study and interviews in the emergency department|
+| **Night Shift Communication Needs** | Address underrepresentation & challenges | Target surveys and interview night shift staff on all departments|
+| **Surgical Insights** | Gain understanding of specific communication needs & solutions | Focus groups & interviews with surgeons, anesthesia, OR nurses|
+| **Emergency Department** | Explore high-pressure communication scenarios and improvement opportunities | Observational study & interview the emergency room|
 | **Patient Engagement** | Enhance understanding of patient-centered communication improvements| Surveys and focus groups with patients and family|
-| **Union Perspective on Communication Changes** | Understand potential resistance and support for communication initiatives | Interview and survey union members |
+| **Union Perspective on Communication Changes** | Understand potential resistance and support for communication initiatives | Interview & survey union members |
 
 ---
 

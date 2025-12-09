@@ -9,7 +9,9 @@
 
 ## Why Shared Governance Solves Communication Problems
 
-**The Communication Transformation Mechanism:** Shared governance directly addresses the root cause of our communication crisis by transforming communication from hierarchical (one-way) to collaborative (two-way) through giving staff real decision-making authority.
+**The Communication Transformation Mechanism:** Shared governance directly addresses the root cause of our communication 
+crisis by transforming communication from hierarchical (one-way) to collaborative (two-way) through giving staff real 
+decision-making authority.
 
 **How It Works:**
 1. **Unit Councils:** Staff make operational decisions affecting their daily work → eliminates information bottlenecks
@@ -17,7 +19,8 @@
 3. **Protected Time:** Formal time allocation for meaningful participation → creates sustainable communication channels
 4. **Authority Transfer:** Real decision-making power, not just input → addresses core hierarchy communication barrier
 
-**Evidence-Based Confidence:** 85% Bayesian analysis from four evidence sources supports implementation with 95% convergence on communication as the key mechanism.
+**Evidence-Based Confidence:** 85% Bayesian analysis from four evidence sources supports implementation with 95% convergence on communication as the key 
+mechanism.
 
 # DETAILED IMPLEMENTATION PLAN: Systematic Communication Transformation
 

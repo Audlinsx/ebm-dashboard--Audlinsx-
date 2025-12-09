@@ -10,10 +10,10 @@
 ## Executive Summary
 
 This systematic literature search employed **rigorous academic methodology** across **4 major databases** (PubMed, CINAHL, Business Source Premier, 
-Cochrane Library) to identify high-quality research on healthcare communication improvement between management levels. The comprehensive search strategy 
-yielded **2,829 initial records**, refined through systematic screening to **9 high-quality studies** meeting strict inclusion criteria. The methodology 
-ensures **robust evidence base** with **average study quality score of 8.2/10** and **consistent effect sizes (d = 0.58-0.82)** supporting evidence-based 
-decision making for healthcare communication interventions.
+Cochrane Library) to identify high-quality research on healthcare communication improvement between management levels. The comprehensive search 
+strategy yielded **2,829 initial records**, refined through systematic screening to **9 high-quality studies** meeting strict inclusion criteria. The 
+methodology ensures **robust evidence base** with **average study quality score of 8.2/10** and **consistent effect sizes (d = 0.58-0.82)** supporting 
+evidence-based decision making for healthcare communication interventions.
 
 ### Search Strategy Overview
 | Search Component | Specification | Results | Quality Assurance |
